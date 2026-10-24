@@ -1,0 +1,5 @@
+# Runtime dependencies for the Vercel serverless function (api/index.py).
+fastapi>=0.115,<1
+pandas>=2.2
+numpy>=1.26
+tzdata

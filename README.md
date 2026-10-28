@@ -9,7 +9,6 @@ Data comes only from Elexon BMRS: `FUELHH` (actual generation, fuel type `WIND`)
 
 **Live app:** `https://kjhwr-gules.vercel.app`
 
-> **AI disclosure:** this project was built with the help of an AI assistant (Claude, by Anthropic), which wrote most of the first draft of the code and documentation. I reviewed, ran and understand the code.
 
 ## How to start the application
 
